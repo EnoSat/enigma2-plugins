@@ -85,164 +85,15 @@
 			<menu>
 				<name>Schweiz</name>
 				<cam>
-					<name>Zermatt</name>
-					<url>http://www.topin.ch/scripts/create_img.php?bild=ZER.JPG</url>
-				</cam>
-				<cam>
-					<name>Schweiz, Luzern</name>
-					<url>http://cam.luzern.org/jpg/image.jpg</url>
-				</cam>
-				<cam>
 					<name>Schweiz, Fiesch Eggishorn</name>
-					<url>http://www.swisswebcams.ch/customerpics/1053072705.jpg</url>
+					<url>http://webcam.aletscharena.ch/live/cam16.jpg</url>
 				</cam>
 			</menu>
-			<menu>
-				<name>Sweden</name>
-				<cam>
-					<name>Stromsnasbruk</name>
-					<url>http://stromsnasbruk.axiscam.net:8080/jpg/image.jpg</url>
-				</cam>
-			</menu>
-			<menu>
-				<name>Oesterreich</name>
-				<menu>
-					<name>Stubaier Gletscher</name>
-					<cam>
-						<name>Wildspitzlift</name>
-						<url>http://www.stubaier-gletscher.com/static/webcam/schaufelschuss1.jpg</url>
-					</cam>
-					<cam>
-						<name>Bergstation Rotadl</name>
-						<url>http://www.stubaier-gletscher.com/static/webcam/schaufelschuss2.jpg</url>
-					</cam>
-					<cam>
-						<name>Piste Schaufelschuss</name>
-						<url>http://www.stubaier-gletscher.com/static/webcam/schaufelschuss3.jpg</url>
-					</cam>
-					<cam>
-						<name>Bergstation Eisgrat</name>
-						<url>http://www.stubaier-gletscher.com/static/webcam/schaufelschuss4.jpg</url>
-					</cam>
-					<cam>
-						<name>Schirmbar Gamsgarten</name>
-						<url>http://www.stubaier-gletscher.com/static/webcam/eisjoch1.jpg</url>
-					</cam>
-					<cam>
-						<name>Eiskletterturm Gamsgarten</name>
-						<url>http://www.stubaier-gletscher.com/static/webcam/eisjoch2.jpg</url>
-					</cam>
-					<cam>
-						<name>Eisjochferner</name>
-						<url>http://www.stubaier-gletscher.com/static/webcam/eisjoch3.jpg</url>
-					</cam>
-					<cam>
-						<name>Daunferner</name>
-						<url>http://www.stubaier-gletscher.com/static/webcam/eisjoch4.jpg</url>
-					</cam>
-					<cam>
-						<name>Gaisskarferner</name>
-						<url>http://www.stubaier-gletscher.com/static/webcam/jochdohle1.jpg</url>
-					</cam>
-					<cam>
-						<name>Schussgrubenkogel</name>
-						<url>http://www.stubaier-gletscher.com/static/webcam/jochdohle2.jpg</url>
-					</cam>
-					<cam>
-						<name>Bergstation Schaufeljoch</name>
-						<url>http://www.stubaier-gletscher.com/static/webcam/jochdohle3.jpg</url>
-					</cam>
-					<cam>
-						<name>Zuckerhuetl</name>
-						<url>http://www.stubaier-gletscher.com/static/webcam/jochdohle4.jpg</url>
-					</cam>
-				</menu>
-				<cam>
-					<name>Linz</name>
-					<url>http://www.linz.at/images/T_WebcamKunstuni.jpg</url>
-				</cam>
-			</menu>
-			<menu>
-				<name>Nederland</name>
-				<menu>
-					<name>Terschelling</name>
-					<cam>
-						<name>hotel nap</name>
-						<url>http://www.hotelnap.nl/webcam/totaal/current.jpg</url>
-					</cam>
-					<cam>
-						<name>Tijs Knop</name>
-						<url>http://www.tijsknop.nl/webcam/output.jpg?counter=1261169399970.jpg</url>
-					</cam>
-					<cam>
-						<name>Willem Barendtsz</name>
-						<url>http://www.miwb.nl/webcam/webcam.jpg</url>
-					</cam>
-					<cam>
-						<name>VVV</name>
-						<url>http://www.vvvterschelling.nl/webcam/webcam/vvv_current.jpg</url>
-					</cam>
-				</menu>
-			</menu>	
-			<cam>
-				<name>London, Trafalgar Square</name>
-				<url>http://images.earthcam.com/ec_metros/ourcams/trafalgarsq.jpg</url>
-			</cam>
-			<cam>
-				<name>London, Big Ben</name>
-				<url>http://images.earthcam.com/ec_metros/ourcams/big_ben.jpg</url>
-			</cam>
-			<cam>
-				<name>London, Covent Garden</name>
-				<url>http://images.earthcam.com/ec_metros/ourcams/ltm.jpg</url>
-			</cam>
 			<cam>
 				<name>Spanien, Costa Brava</name>
 				<url>http://www.costabrava.cc/calella_live_webcam.jpg</url>
 			</cam>
-			<cam>
-				<name>Paris</name>
-				<url>http://www.abcparislive.com/eiffel2.jpg</url>
-			</cam>
-			<cam>
-				<name>Madrid</name>
-				<url>http://www.multimadrid.com/plaza.jpg</url>
-			</cam>
-			<cam>
-				<name>Dublin</name>
-				<url>http://www.ireland.com/includes/webcam/liveview.jpg</url>
-			</cam>
-			<cam>
-				<name>Griechenland, Naxos</name>
-				<url>http://www.flisvos-sportclub.com/images/webcam.jpg</url>
-			</cam>
-			<cam>
-				<name>Griechenland, Mykonos</name>
-				<url>http://www.travel-to-mykonos.com/webcam/1/mykonos.jpg</url>
-			</cam>
 		</menu>
-		<menu>
-			<cam>
-				<name>Antarktis,South Georgia</name>
-				<url>http://www.sgisland.org/webcam/webcam.jpg</url>
-			</cam>
-			<cam>
-				<name>Neuseeland, Hammer Springs</name>
-				<url>http://www.hanmer.co.nz/hanmer.jpg</url>
-			</cam>
-		</menu>
-		<menu>
-			<name>Afrika</name>
-			<cam>
-				<name>Tembe Elephantpark</name>
-				<url>http://africa-web-cams.com/incoming/tembe.jpg</url>
-			</cam>
-			<cam>
-				<name>Meerwasseraquarium</name>
-				<url>http://80.152.171.35:21753/record/current.jpg</url>
-			</cam>
-		</menu>
-
 	</menu>
 	<menu>
 		<name>Wetterbilder</name>
@@ -250,100 +101,31 @@
 			<name>DWD</name>
 			<cam>
 				<name>DWD, Deutschland aktuell</name>
-				<url>http://www.dwd.de/bvbw/generator/Sites/DWDWWW/Content/Oeffentlichkeit/WV/WV11/Warnungen/Wetter__Aktuell/Regionenwetter/WetterDeutschland__allgemein__Bild,property=default.jpg</url>
+				<url>http://www.dwd.de/DWD/wetter/aktuell/deutschland/bilder/wx_brd_akt.jpg</url>
 			</cam>
 			<cam>
 				<name>DWD, Seegang</name>
-				<url>http://www.dwd.de/bvbw/generator/Sites/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Bild__default,property=default.jpg</url>
+				<url>http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_00.png</url>
 			</cam>
 			<cam>
 				<name>DWD, Wassertemperaturen</name>
-				<url>http://www.dwd.de/bvbw/generator/Sites/DWDWWW/Content/Schifffahrt/Seewetter/Wassertemperaturen__Bild__default,property=default.jpg</url>
+				<url>http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_wassertemp_na_ana.png</url>
 			</cam>
 			<cam>
 				<name>DWD, Aktuell</name>
-				<url>http://www.dwd.de/bvbw/generator/Sites/DWDWWW/Content/Oeffentlichkeit/WV/WV11/Warnungen/Wetter__Aktuell/Regionenwetter/WetterDeutschland__allgemein__Bild,property=default.jpg</url>
+				<url>https://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/bwk_bodendruck_na_ana.png</url>
 			</cam>
 		</menu>
 		<menu>
 			<name>AlleWetter.de</name>
 			<cam>
 				<name>AlleWetter.de, Europa</name>
-				<url>http://www.allewetter.de/images/sateuropa2.jpg</url>
+				<url>http://www.allewetter.de/images/sateur.jpg</url>
 			</cam>
-			<cam>
-				<name>AlleWetter.de, Afrika</name>
-				<url>http://www.allewetter.de/images/satafrika2.jpg</url>
-			</cam>
-			<cam>
-				<name>AlleWetter.de, Australien</name>
-				<url>http://www.allewetter.de/images/sataustralien2.jpg</url>
-			</cam>
-			<cam>
-				<name>AlleWetter.de, Kanaren</name>
-				<url>http://www.allewetter.de/images/satkanaren2.jpg</url>
-			</cam>
-			<cam>
-				<name>AlleWetter.de, Karibik</name>
-				<url>http://www.allewetter.de/images/satkaribik2.jpg</url>
-			</cam>
-			<cam>
-				<name>AlleWetter.de, Mexiko</name>
-				<url>http://www.allewetter.de/images/satmexiko2.jpg</url>
-			</cam>
-			<cam>
-				<name>AlleWetter.de, Naher Osten</name>
-				<url>http://www.allewetter.de/images/satnaost2.jpg</url>
-			</cam>
-			<cam>
-				<name>AlleWetter.de, Neuseeland</name>
-				<url>http://www.allewetter.de/images/satneuseeland2.jpg</url>
-			</cam>
-			<cam>
-				<name>AlleWetter.de, Südamerika</name>
-				<url>http://www.allewetter.de/images/satsamer2.jpg</url>
-			</cam>
-			<cam>
-				<name>AlleWetter.de, Asien</name>
-				<url>http://www.allewetter.de/images/satsasie2.jpg</url>
-			</cam>
-			<cam>
-				<name>AlleWetter.de, USA</name>
-				<url>http://www.allewetter.de/images/satusa2.jpg</url>
-			</cam>
-
-		</menu>
-		<menu>
-			<name>Noaa</name>
-			<cam>
-				<name>Noaa 15 1</name>
-				<url>http://212.101.19.78/Wetterstation/noaa-15-09051517-mcir.jpg</url>
-			</cam>
-			<cam>
-				<name>Noaa 15 2</name>
-				<url>http://212.101.19.78/Wetterstation/noaa-15-09050534-mcir.jpg</url>
-			</cam>
-			<cam>
-				<name>Noaa 17 1</name>
-				<url>http://212.101.19.78/Wetterstation/noaa-17-09050921-msa.jpg</url>
-			</cam>
-			<cam>
-				<name>Noaa 17 2</name>
-				<url>http://212.101.19.78/Wetterstation/noaa-17-09042108-mcir.jpg</url>
-			</cam>
-			<cam>
-				<name>Noaa 18 1</name>
-				<url>http://212.101.19.78/Wetterstation/noaa-18-09051248-msa.jpg</url>
-			</cam>
-			<cam>
-				<name>Noaa 18 2</name>
-				<url>http://212.101.19.78/Wetterstation/noaa-18-09050118-mcir.jpg</url>
-			</cam>
-
 		</menu>
 		<menu>
 			<name>Polarlicht_Webcam Hochaufloesung</name>
-            <cam>
+			<cam>
 				<name>Polarlicht1</name>
 				<url>http://uk.jokkmokk.jp/photo/nr3/latest_raw.jpg</url>
 			</cam>
@@ -351,11 +133,10 @@
 				<name>Polarlicht2</name>
 				<url>http://uk.jokkmokk.jp/photo/nr4/latest_raw.jpg</url>
 			</cam>
-
 		</menu>
 		<menu>
 			<name>Polarlicht_Webcam Niedrigaufloesung</name>
-            <cam>
+			<cam>
 				<name>Polarlicht1</name>
 				<url>http://uk.jokkmokk.jp/photo/nr3/latest.jpg</url>
 			</cam>
@@ -363,23 +144,10 @@
 				<name>Polarlicht2</name>
 				<url>http://uk.jokkmokk.jp/photo/nr4/latest.jpg</url>
 			</cam>
-
 		</menu>
-        <cam>
-			<name>DKRZ</name>
-			<url>http://www.dkrz.de/images/sat_meteo_france/cartefrmod.gif</url>
-		</cam>
-		<cam>
-			<name>Blids.de, Blitze</name>
-			<url>http://www.blids.de/spion/bilder/aktkarteger.jpg</url>
-		</cam>
-		<cam>
-         <name>Blitzortung.ORG - Intensitaet -</name>
-         <url>http://www.blitzortung.net/image_d_de.png</url>
-        </cam>
-        <cam>
-         <name>Blitzortung.ORG - Blitzkarte -</name>
-         <url>http://www.blitzortung.net/image_b_de.png</url>
-        </cam>
-	</menu>
+			<cam>
+				<name>Blids.de, Blitze</name>
+				<url>http://www.blids.de/spion/bilder/aktkarteger.jpg</url>
+			</cam>
+		</menu>
 </xml>
