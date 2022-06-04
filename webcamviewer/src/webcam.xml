@@ -12,44 +12,28 @@
 					<name>Hamburg</name>
 					<cam>
 						<name>Hamburg mit Blick nach Südwest</name>
-						<url>https://opendata.dwd.de/weather/webcam/Hamburg-SW/Hamburg-SW_latest_full.jpg</url>
+						<url>http://opendata.dwd.de/weather/webcam/Hamburg-SW/Hamburg-SW_latest_full.jpg</url>
 					</cam>
 					<cam>
 						<name>Hamburg mit Blick nach Südost</name>
-						<url>https://opendata.dwd.de/weather/webcam/Hamburg-SO/Hamburg-SO_latest_full.jpg</url>
+						<url>http://opendata.dwd.de/weather/webcam/Hamburg-SO/Hamburg-SO_latest_full.jpg</url>
 					</cam>
 					<cam>
 						<name>Hamburg Hafen</name>
-						<url>https://www.hafen-hamburg.de/assets/files/wcpath_XlZvRsvfeDpS8ITefohfrRWKfUmjdQah/cta.jpg</url>
+						<url>http://www.hafen-hamburg.de/assets/files/wcpath_XlZvRsvfeDpS8ITefohfrRWKfUmjdQah/cta.jpg</url>
 					</cam>
 				</menu>
 				<cam>
 					<name>Eutin</name>
-					<url>https://extern.gipsprojekt.de/eutin/webcamwt.jpg</url>
+					<url>http://extern.gipsprojekt.de/eutin/webcamwt.jpg</url>
 				</cam>
 				<cam>
 					<name>Offenbach mit Blick West Richtung Frankfurt</name>
-					<url>https://opendata.dwd.de/weather/webcam/Offenbach-W/Offenbach-W_latest_full.jpg</url>
+					<url>http://opendata.dwd.de/weather/webcam/Offenbach-W/Offenbach-W_latest_full.jpg</url>
 				</cam>
 				<cam>
 					<name>Offenbach mit Blick Ost Richtung Offenbach</name>
-					<url>https://opendata.dwd.de/weather/webcam/Offenbach-O/Offenbach-O_latest_full.jpg</url>
-				</cam>				
-				<cam>
-					<name>St. Peter Ording</name>
-					<url>http://www.dwd.de/scripts/getimg.php?src=/wundk/wkam1-10028.jpg</url>
-				</cam>
-				<cam>
-					<name>Rostock-Warnemuende Seestrasse</name>
-					<url>http://www.dwd.de/scripts/getimg.php?src=/wundk/wkam1-10170.jpg</url>
-				</cam>
-				<cam>
-					<name>Kahler Asten - Wetterstation</name>
-					<url>http://www.dwd.de/scripts/getimg.php?src=/wundk/wkam1-10427.jpg</url>
-				</cam>
-				<cam>
-					<name>Braunlage</name>
-					<url>http://www.dwd.de/scripts/getimg.php?src=/wundk/wkam1-10452.jpg</url>
+					<url>http://opendata.dwd.de/weather/webcam/Offenbach-O/Offenbach-O_latest_full.jpg</url>
 				</cam>
 				<cam>
 					<name>Hannover</name>
@@ -57,53 +41,20 @@
 				</cam>
 				<cam>
 					<name>Koeln</name>
-					<url>http://www.wdr.de/themen/global/webcams/domcam/domcam_live.jpg</url>
-				</cam>
-				<cam>
-					<name>Frankfurt</name>
-					<url>http://www.frankfurt.de/sis/frankfurtbilder/cams/pia/images/webcam_pia.jpg</url>
-				</cam>
-				<cam>
-					<name>Berlin</name>
-					<url>http://www.dhm.de/webcams/pics/cam1_large.jpg</url>
-				</cam>
-				<cam>
-					<name>Berlin2</name>
-					<url>http://www.dwd.de/scripts/getimg.php?src=/wundk/wkam1-10384.jpg</url>
-				</cam>
-				<cam>
-					<name>Berlin, Museumsinsel</name>
-					<url>http://www.ipb.de/webcam/cam/cam.jpg</url>
-				</cam>
-				<cam>
-					<name>Leipzig</name>
-					<url>http://www.na-klarmann.de/cam.JPG</url>
-				</cam>
-				<cam>
-					<name>Wuerzburg 1</name>
-					<url>http://wuecam.bplaced.net/live/mega/live2.jpg</url>
+					<url>http://www.wdr.de/themen/global/webcams/domcam/domcam_960_live.jpg</url>
 				</cam>
 				<cam>
 					<name>Wuerzburg 2</name>
-					<url>http://www.wuerzburgwebcam.de/live/images/image.gif</url>
-				</cam>
-                <cam>
-					<name>Eggstaett Bayern</name>
-					<url>http://www.eggstaett.de/webcam/webcam.jpg</url>
+					<url>http://www.wuerzburgwebcam.de/live/wuecam1/preview.jpg</url>
 				</cam>
 				<cam>
-					<name>Rosenheim Bayern</name>
-					<url>http://www.klinikum-rosenheim.de/sonstiges/kliroinfo/webcam.jpg</url>
+					<name>Villingen</name>
+					<url>http://www.villingen-schwenningen.de/fileadmin/VS/Webcams/rietstr.jpg</url>
 				</cam>
-
-                <cam>
-                    <name>Villingen</name>
-                    <url>http://www.villingen-schwenningen.de/cam/rietstr.jpg</url>
-                </cam>
-                <cam>
-                    <name>Schwenningen</name>
-                    <url>http://www.villingen-schwenningen.de/cam/muslen.jpg</url>
-                </cam>
+				<cam>
+					<name>Schwenningen</name>
+					<url>http://www.villingen-schwenningen.de/fileadmin/VS/Webcams/muslen.jpg</url>
+				</cam>
 			</menu>
 			<menu>
 				<name>Finland</name>
