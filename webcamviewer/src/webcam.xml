@@ -11,16 +11,16 @@
 				<menu>
 					<name>Hamburg</name>
 					<cam>
-						<name>Hamburg A7 Elbtunnel</name>
-						<url>http://www.ikk-hamburg.de/seiten/webcam/bild.php?bild=gross</url>
+						<name>Hamburg mit Blick nach Südwest</name>
+						<url>https://opendata.dwd.de/weather/webcam/Hamburg-SW/Hamburg-SW_latest_full.jpg</url>
 					</cam>
 					<cam>
-						<name>Hamburg Landungsbruecken</name>
-						<url>http://www.dwd.de/scripts/getimg.php?src=/wundk/wkam1-10148.jpg</url>
+						<name>Hamburg mit Blick nach Südost</name>
+						<url>https://opendata.dwd.de/weather/webcam/Hamburg-SO/Hamburg-SO_latest_full.jpg</url>
 					</cam>
 					<cam>
 						<name>Hamburg Hafen</name>
-						<url>http://www.hafen-hamburg.de/webcam/camstill.jpg</url>
+						<url>https://www.hafen-hamburg.de/assets/files/wcpath_XlZvRsvfeDpS8ITefohfrRWKfUmjdQah/cta.jpg</url>
 					</cam>
 				</menu>
 				<menu>
