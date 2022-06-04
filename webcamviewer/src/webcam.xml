@@ -23,41 +23,18 @@
 						<url>https://www.hafen-hamburg.de/assets/files/wcpath_XlZvRsvfeDpS8ITefohfrRWKfUmjdQah/cta.jpg</url>
 					</cam>
 				</menu>
-				<menu>
-					<name>Dresden</name>
-					<cam>
-						<name>Frauenkirche</name>
-						<url>http://www3.mdr.de/webcams/frauen.jpg?t=12679</url>
-					</cam>
-					<cam>
-						<name>Blick auf Altstadtpanorama, Synagoge und Frauenkirche</name>
-						<url>http://www3.mdr.de/webcams/altstadt.jpg</url>
-					</cam>
-					<cam>
-						<name>Zwinger</name>
-						<url>http://www.softed.de/Webcam/webcam/hugesize.jpg</url>
-					</cam>
-					<cam>
-						<name>Fernsehturm</name>
-						<url>http://www.eb-world.de/FernsehturmCam/pics/Fernsehturm.jpg</url>
-					</cam>
-					<cam>
-						<name>Seidnitz</name>
-						<url>http://www.webcam.maxg.ath.cx/capture1.jpg</url>
-					</cam>
-					<cam>
-						<name>Blick zur Frauenkirche</name>
-						<url>http://dataware.de/~combase/fkdrv/images/campics/image.jpg</url>
-					</cam>
-				</menu>
 				<cam>
 					<name>Eutin</name>
-					<url>http://www.stadtwerke-eutin.de/webcam/images/wasserturm.jpg</url>
+					<url>https://extern.gipsprojekt.de/eutin/webcamwt.jpg</url>
 				</cam>
 				<cam>
-					<name>Offenbach/Frankfurt</name>
-					<url>http://www.dwd.de/scripts/getimg.php?src=/wundk/wkam1-10640.jpg</url>
+					<name>Offenbach mit Blick West Richtung Frankfurt</name>
+					<url>https://opendata.dwd.de/weather/webcam/Offenbach-W/Offenbach-W_latest_full.jpg</url>
 				</cam>
+				<cam>
+					<name>Offenbach mit Blick Ost Richtung Offenbach</name>
+					<url>https://opendata.dwd.de/weather/webcam/Offenbach-O/Offenbach-O_latest_full.jpg</url>
+				</cam>				
 				<cam>
 					<name>St. Peter Ording</name>
 					<url>http://www.dwd.de/scripts/getimg.php?src=/wundk/wkam1-10028.jpg</url>
