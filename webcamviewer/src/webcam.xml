@@ -74,12 +74,12 @@
 			<menu>
 				<name>Italien</name>
 				<cam>
-					<name>Torbole sul Garda</name>
-					<url>http://www.meteogarda.it/torbole/torbole.jpg</url>
+					<name>Centro Nautico Bardolino</name>
+					<url>http://www.meteogarda.it/bardolino/bardolino.jpg</url>
 				</cam>
 				<cam>
-					<name>Gardasee Al Pra</name>
-					<url>http://www.meteogarda.it/pra/stazione_pra.jpg</url>
+					<name>Sirmione</name>
+					<url>http://www.meteogarda.it/sirmione/sirmione.jpg</url>
 				</cam>
 			</menu>
 			<menu>
